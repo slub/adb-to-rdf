@@ -1,4 +1,4 @@
-# Ausstellungsdatenbank expoter
+# Ausstellungsdatenbank exporter
 
 
 Will query all entities via GraphQL and produce triples, which can be exported on a per type base or as a whole corpora.
